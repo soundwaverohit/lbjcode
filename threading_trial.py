@@ -7,6 +7,7 @@ import sys
 import time
 from threading import Timer
 
+# https://labjack.com/pages/support?doc=%2Fdatasheets%2Ft-series-datasheet%2Fa-3-2-1-t7-ain-general-specs-t-series-datasheet%2F
 
 """HELPER FUNCTIONS"""
 class RepeatedTimer(object):
